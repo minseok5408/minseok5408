@@ -1,5 +1,5 @@
 ### Hi there 👋
-</br></br></br></br></br>
+
 <!--
 **minseok5408/minseok5408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,9 +43,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 </div></br>
 
-![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseok5408&show_icons=true&theme=chartreuse-dark&title_color=00ff00&icon_color=00ff00)
+![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseok5408&show_icons=tru&title_color=00ff00&text_color=ffffff&icon_color=00ff00&bg_color=000000&locale=kr)
 
-</br></br></br></br>
 <div>
   <a href="https://www.instagram.com/kimseokryu/" target="_blank"> 
     <img src="https://img.shields.io/badge/-kimseokryu-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
