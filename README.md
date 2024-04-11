@@ -35,5 +35,6 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Notion-181717?style=flat&logo=Notion&logoColor=white"/>
 </div>
