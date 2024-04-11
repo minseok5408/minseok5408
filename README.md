@@ -23,3 +23,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 </div>
+
+<h3 align="center">Study</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+</div>
