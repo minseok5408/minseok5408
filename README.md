@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 
 <div>
   <a href="https://www.instagram.com/kimseokryu/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-kimseokryu-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
