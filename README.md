@@ -35,13 +35,18 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </div>
 
+<p><strong>Server</strong></p>
+<div>
+    <img src="https://img.shields.io/badge/-Apach Tomcat-F8DC75?style=flat&logo=Apach Tomcat&logoColor=white"/>
+</div>
+
 <p><strong>Framework</strong></p>
 <div>
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> 
 </div>
 
-<p>Tools</p>
+<p><strong>Tools</strong></p>
 <div>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
@@ -49,7 +54,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Notion-181717?style=flat&logo=Notion&logoColor=white"/>
 </div></br>
 
-<p>Study</p>
+<p><strong>Study</strong></p>
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
