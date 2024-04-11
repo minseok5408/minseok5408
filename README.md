@@ -1,5 +1,23 @@
-<!--### Hi there 👋 -->
-
+### Hi there 👋
+<p>
+                    'c.          
+                 ,xNMM.          
+               .OMMMMo          
+               OMMM0,           
+     .;loddo:' loolloddol;.      
+   cKMMMMMMMMMMNWMMMMMMMMMM0:   
+ .KMMMMMMMMMMMMMMMMMMMMMMMWd.   
+ XMMMMMMMMMMMMMMMMMMMMMMMX.      
+;MMMMMMMMMMMMMMMMMMMMMMMM:       
+:MMMMMMMMMMMMMMMMMMMMMMMM:       
+.MMMMMMMMMMMMMMMMMMMMMMMMX.      
+ kMMMMMMMMMMMMMMMMMMMMMMMMWd.    
+ .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
+  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   
+    kMMMMMMMMMMMMMMMMMMMMMMd    
+     ;KMMMMMMMWXXWMMMMMMMk.      
+       .cooc,.    .,coo:.
+</p>
 <!--
 **minseok5408/minseok5408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -74,7 +92,7 @@ Here are some ideas to get you started:
  
   <p><strong>2023</strong></p>
   <p>　- 2023.04.03 ~ ing　/　솔뱅크정보(주) 입사</p>
-  <p>　- 2023.12.07 ~ ing　/　학점은행제 컴퓨터공학과 시작</p>
+  <p>　- 2023.12.07 ~ ing　/　학점은행제 컴퓨터공학과 수강 시작</p>
   </br>
     
   <p><strong>2024</strong></p>
@@ -89,9 +107,6 @@ Here are some ideas to get you started:
 
 ## Contact
 <div>
-    <a href="mailto:minseok5408@gmail.com"> 
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-    </a>
     <a href="https://www.instagram.com/kimseokryu/"> 
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
     </a>
