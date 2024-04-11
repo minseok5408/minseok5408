@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>  Tech Stack  </p>
+<p><strong style="color:#00ff00;">Tech Stack</strong></p>
 <div>
     <!-- A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z -->
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 </div></br>
 
-<p>  Tools  </p>
+<p><strong style="color:#00ff00;">Tools</strong></p>
 <div>
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Notion-181717?style=flat&logo=Notion&logoColor=white"/>
 </div></br>
 
-<p>  Study  </p>
+<p><strong style="color:#00ff00;">Study</strong></p>
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 <div>
     <a href="https://www.instagram.com/kimseokryu/" target="_blank">
-      <img src="https://img.shields.io/badge/-kimseokryu-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-kimseokryu-E4405F?style=flat&logo=Instagram&logoColor=white"/>
     </a>
 </div>
