@@ -46,10 +46,10 @@ Here are some ideas to get you started:
 ![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseok5408&show_icons=tru&theme=dark)
 
 <div>
-  <a href="https://www.instagram.com/kimseokryu/" target="_blank"> 
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-    <a href="mailto:minseok5408@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    <a href="mailto:minseok5408@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/> 
+    </a>
+    <a href="https://www.instagram.com/kimseokryu/"> 
+        <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
     </a>
 </div>
