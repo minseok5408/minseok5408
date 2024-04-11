@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <p><strong>Server</strong></p>
 <div>
-    <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=black"/>
 </div>
 
 <p><strong>Framework</strong></p>
