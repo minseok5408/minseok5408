@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
 <!--
 **minseok5408/minseok5408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,18 +16,28 @@ Here are some ideas to get you started:
 -->
 
 <p>Tech Stac</p>
+<p><strong>Frontend</strong></p>
 <div>
-    <!-- A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z -->
-    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>   
+</div>
+
+<p><strong>Backend</strong></p>
+<div>
+    <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
+</div>
+
+<p><strong>Database</strong></p>
+<div>
     <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>   
-    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
-</div></br>
+
+</div>
+
 
 <p>Tools</p>
 <div>
