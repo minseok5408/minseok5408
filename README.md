@@ -1,23 +1,5 @@
 ### Hi there 👋
-<p>
-                    'c.          
-                 ,xNMM.          
-               .OMMMMo          
-               OMMM0,           
-     .;loddo:' loolloddol;.      
-   cKMMMMMMMMMMNWMMMMMMMMMM0:   
- .KMMMMMMMMMMMMMMMMMMMMMMMWd.   
- XMMMMMMMMMMMMMMMMMMMMMMMX.      
-;MMMMMMMMMMMMMMMMMMMMMMMM:       
-:MMMMMMMMMMMMMMMMMMMMMMMM:       
-.MMMMMMMMMMMMMMMMMMMMMMMMX.      
- kMMMMMMMMMMMMMMMMMMMMMMMMWd.    
- .XMMMMMMMMMMMMMMMMMMMMMMMMMMk   
-  .XMMMMMMMMMMMMMMMMMMMMMMMMK.   
-    kMMMMMMMMMMMMMMMMMMMMMMd    
-     ;KMMMMMMMWXXWMMMMMMMk.      
-       .cooc,.    .,coo:.
-</p>
+
 <!--
 **minseok5408/minseok5408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
