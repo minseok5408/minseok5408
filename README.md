@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h3>  Tools  </h3>
 <div>
-  <img src="https://img.shields.io/badge/-Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/>
 </div>
