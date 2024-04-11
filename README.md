@@ -49,7 +49,4 @@ Here are some ideas to get you started:
     <a href="https://www.instagram.com/kimseokryu/"> 
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
     </a>
-    <a href="https://open.kakao.com/o/minseok5408">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk"> 
-    </a>
 </div>
