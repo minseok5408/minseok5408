@@ -43,6 +43,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 </div></br>
 
+![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseok5409&show_icons=true&theme=radical)
+
 </br></br></br></br>
 <div>
   <a href="https://www.instagram.com/kimseokryu/" target="_blank">
