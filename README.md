@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-    <a href="https://www.instagram.com/kimseokryu/"> 
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-    </a>
-</div>
-
 <p><strong>Frontend</strong></p>
 <div>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -60,4 +54,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 </div></br>
 
-![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseok5408&show_icons=tru&theme=dark)
+![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseok5408&show_icons=tru&theme=dark)</br>
+
+<div>
+    <a href="https://www.instagram.com/kimseokryu/"> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+    </a>
+</div>
