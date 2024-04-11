@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 <div>
   <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 </div>
 </br>
