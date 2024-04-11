@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>   
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
-</div>
+</div></br>
 
 <p>  Tools  </p>
 <div>
@@ -34,10 +34,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Notion-181717?style=flat&logo=Notion&logoColor=white"/>
-</div>
+</div></br>
 
 <p>  Study  </p>
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
+</div></br>
+
+<div>
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 </div>
