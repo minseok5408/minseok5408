@@ -22,14 +22,16 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
     </br>
+    
     <!-- Libraries -->
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>   
     </br>
+    
     <!-- Frameworks -->
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+    </br>
+    
     <!-- Database -->
     <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
 </div>
@@ -40,4 +42,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Notion-181717?style=flat&logo=Notion&logoColor=white"/>
+</div>
+
+<h3>  study  </h3>
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 </div>
