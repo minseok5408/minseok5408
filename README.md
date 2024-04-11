@@ -15,15 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-  body {
-    font-family: 'D2Coding', sans-serif;
-  }
-  p b {
-    font-family: 'D2Coding', sans-serif;
-  }
-</style>
-
 <p><b>Tech Stack</b></p>
 <div>
     <!-- A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z -->
@@ -52,7 +43,7 @@ Here are some ideas to get you started:
 </div></br>
 
 <div>
-    <a href="https://www.instagram.com/kimseokryu/" target="_blank">
-  <img src="https://img.shields.io/badge/-kimseokryu-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-    </a>
+  <a href="https://www.instagram.com/kimseokryu/" target="_blank">
+    <img src="https://img.shields.io/badge/-kimseokryu-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+  </a>
 </div>
