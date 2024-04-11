@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3>  Tech Stack  </h3>
-<div> <h1>Mark Up</h1>
+<div> <p>Mark Up<p>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
   </div>
   
