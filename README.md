@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+    <a href="https://www.instagram.com/kimseokryu/"> 
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+    </a>
+</div>
 
 <p><strong>Frontend</strong></p>
 <div>
@@ -56,9 +61,3 @@ Here are some ideas to get you started:
 </div></br>
 
 ![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseok5408&show_icons=tru&theme=dark)
-
-<div>
-    <a href="https://www.instagram.com/kimseokryu/"> 
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-    </a>
-</div>
