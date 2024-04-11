@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 <h3>  Tech Stack  </h3>
 <div>
-    <!-- Languages -->
-    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+    <!-- A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z -->
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>   
-    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=white"/>   
+    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 </div>
 
 <h3>  Tools  </h3>
@@ -40,21 +40,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 </div>
-
-<script>
-    // Get all img elements inside the container
-    const badgeContainer = document.getElementById('badge-container');
-    const badgeImages = Array.from(badgeContainer.getElementsByTagName('img'));
-
-    // Extract logo names and sort them alphabetically
-    const logos = badgeImages.map(img => {
-        const logoName = img.getAttribute('logo').toLowerCase();
-        return { name: logoName, element: img };
-    });
-
-    logos.sort((a, b) => a.name.localeCompare(b.name));
-
-    // Clear container and append sorted badge images
-    badgeContainer.innerHTML = '';
-    logos.forEach(logo => badgeContainer.appendChild(logo.element));
-</script>
