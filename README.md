@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseok5408&show_icons=tru&theme=dark)
-</br>
-</br>
-
 ## Tech Stack
 <p><strong>　- Frontend</strong></p>
 <div style="display:flex; flex-direction:row;">
@@ -83,6 +79,10 @@ Here are some ideas to get you started:
   <p><strong>2024</strong></p>
   <p>　- </br>
 </div>
+</br>
+</br>
+
+![Minseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=minseok5408&show_icons=tru&theme=dark)
 </br>
 </br>
 
