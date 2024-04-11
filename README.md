@@ -58,6 +58,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Swift-F05138?style=flat&logo=Swift&logoColor=white"/>
 </div></br>
 
+## Contact
 <div>
     <a href="https://www.instagram.com/kimseokryu/"> 
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
