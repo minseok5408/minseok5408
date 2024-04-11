@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Tech Stac</p>
 <p><strong>Frontend</strong></p>
 <div>
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
@@ -28,16 +27,18 @@ Here are some ideas to get you started:
 <div>
     <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 </div>
 
 <p><strong>Database</strong></p>
 <div>
     <img src="https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-
 </div>
 
+<p><strong>Framework</strong></p>
+<div>
+    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
+</div>
 
 <p>Tools</p>
 <div>
