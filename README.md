@@ -69,6 +69,23 @@ Here are some ideas to get you started:
 </br>
 </br>
 
+## History
+<div>
+  <p><strong>2022</strong></p>
+  <p>　- 2022.06.29 ~ 2022.12.14 ELK활용 빅데이터 분석서비스 플랫폼개발자양성 (한국소프트웨어인재개발원)</p>
+  </br>
+ 
+  <p><strong>2023</strong></p>
+  <p>　- 2023.04.03 ~ 솔뱅크정보(주) 입사</p>
+  <p>　- 2023.12.07 ~ 학점은행제(컴퓨터공학) 수강 시작</p>
+  </br>
+    
+  <p><strong>2024</strong></p>
+  <p>　- </br>
+</div>
+</br>
+</br>
+
 ## Contact
 <div>
     <a href="https://www.instagram.com/kimseokryu/"> 
