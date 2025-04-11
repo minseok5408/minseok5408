@@ -14,28 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table>
-  <tr>
-    <td valign="top">
-      
-      ### 🚀 FRAMEWORK  
-      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  
-      
-    </td>
-    <td valign="top">
-      
-      ### 🧠 LANGUAGE  
-      <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>  
-      <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=white"/>  
-      
-    </td>
-  </tr>
-</table>
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Tech+Stack" alt="Typing SVG" /></a>
+
 ### FRAMEWORK
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white"/>
