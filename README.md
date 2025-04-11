@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+world!" alt="Typing SVG" /></a>
 
-## History
+## Tech Stack
 
 ### FRAMEWORK
 <div style="display:flex; flex-direction:row;">
