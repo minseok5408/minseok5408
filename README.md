@@ -1,5 +1,5 @@
 <!-- readme-type-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg) -->
 <!-- profile-3d-contrib -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
