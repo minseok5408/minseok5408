@@ -1,12 +1,6 @@
-## Hi there 👋
-
-<!--
-# 3D-Contrib
-  profile-green-animate.svg (초록색 잔디)
-  profile-night-view.svg (야경)
-  profile-night-rainbow.svg (네온 무지개)
-  profile-gitblock.svg (레고 스타일)
--->
+<!-- readme-type-svg -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
+<!-- profile-3d-contrib -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!--
